@@ -31,3 +31,8 @@ uvicorn main:app --reload
 3. Open in browser
 
 http://127.0.0.1:8000/docs
+
+For starting of project
+cd Project_Folder_Simplify_Money
+venv\Scripts\activate
+uvicorn main:app --reload
